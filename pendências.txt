@@ -1,4 +1,4 @@
-Colocar projeto no git;
+Colocar projeto no git; OK
 Fazer função de venda; (em progresso)
 Colocar o modal como componente; OK
 Verificar como trabalhar com data; OK
