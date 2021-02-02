@@ -1,0 +1,28 @@
+Colocar projeto no git;
+Fazer função de venda; (em progresso)
+Colocar o modal como componente; OK
+Verificar como trabalhar com data; OK
+Verificar como trabalhar com autp complete com valor de dinheiro;
+Validar a exception constraintvalidation;
+Colocar as informações do que não vai ser editado como label;
+Alterar nome de tipo ação para tipo investomento; OK
+Verificar como implementar confirm dialog; OK
+Criar tabela de logs de venda e compra e uma principal; OK
+
+
+
+
+
+
+https://dmitripavlutin.com/javascript-object-destructuring/#:~:text=The%20object%20destructuring%20is%20a,the%20property%20doesn%27t%20exist.
+https://javascript.info/destructuring-assignment
+
+https://fkhadra.github.io/react-toastify/how-to-style
+https://www.npmjs.com/package/react-confirm-alert
+https://react-bootstrap.github.io/components/alerts/
+
+
+
+
+SELECT sum(ac.VALOR_ATUAL_COTACAO * CO.QT_COMPRADA ) FROM ACAO AC 
+JOIN ACAO_COMPRA CO ON CO.ID_ACAO = AC.ID 
